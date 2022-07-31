@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyondx.mk
+    $(LOCAL_DIR)/fluid_beyondx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyondx-eng \
-    lineage_beyondx-user \
-    lineage_beyondx-userdebug
+    fluid_beyondx-eng \
+    fluid_beyondx-user \
+    fluid_beyondx-userdebug
